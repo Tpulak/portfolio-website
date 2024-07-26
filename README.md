@@ -16,4 +16,4 @@ Hi I'm Tanvir Pulakd and welcome to my portfolio website! This is where I showca
 
 ## View the live site
 
-- [link to site]
+- https://tpulak.github.io/portfolio-website/
