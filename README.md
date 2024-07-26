@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Hi I'm Tanvir Pulakd and welcome to my portfolio website! This is where I showcase my projects and skills. Each project includes links to the GitHub repository and a live deployment [WIP], accessible through clickable icons.
+Hi I'm Tanvir Pulak and welcome to my portfolio website! This is where I showcase my projects and skills. Each project includes links to the GitHub repository and a live deployment [WIP], accessible through clickable icons.
 
 ## Features
 
